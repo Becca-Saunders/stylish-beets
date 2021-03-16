@@ -10,7 +10,7 @@ font-family: 'PT Serif', serif;
 
 h1 {
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
 }
 
@@ -20,24 +20,24 @@ img {
 
 header ol li {
   color: #8f2440;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   list-style-type: none;
 }
 
 a {
   text-decoration: none;
 }
- a:hover {
-   color: #3f1622;
- }
+a:hover {
+  color: #3f1622;
+}
 
 b {
   font-weight: bold;
 }
 
-p{
-  font-family: 'PT Serif', serif;
-  font-size: 0.8rem;
+p {
+  font-family: "PT Serif", serif;
+  font-size: .8rem;
   line-height: 1.5;
 }
 
@@ -47,11 +47,11 @@ blockquote p {
 }
 
 cite {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 h2 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #3f1622;
   font-size: 1.125rem;
 }
@@ -65,7 +65,7 @@ dt {
 }
 
 ul li {
-  font-size: 0.8rem;
+  font-size: .8rem;
   list-style-type: circle;
 }
 
