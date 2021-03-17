@@ -22,10 +22,11 @@ img {
   width: 100%;
 }
 
-header ol li {
+.nav ol li {
   color: #8f2440;
   font-family: "PT Sans", sans-serif;
   list-style-type: none;
+  font-size: 1.125rem;
 }
 
 a {
