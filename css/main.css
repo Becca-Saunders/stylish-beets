@@ -16,6 +16,7 @@ h1 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
+  margin-bottom: 1em;
 }
 
 img {
@@ -44,8 +45,9 @@ b {
 
 p {
   font-family: "PT Serif", serif;
-  font-size: .8rem;
+  font-size: 1.125rem;
   line-height: 1.5;
+  color: #222;
 }
 
 blockquote p {
@@ -78,4 +80,8 @@ ul li {
 
 small a {
   color: #8f2440;
+}
+
+figcaption {
+  font-size: 1.125rem;
 }
